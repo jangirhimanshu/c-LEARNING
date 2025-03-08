@@ -12,7 +12,7 @@ int main()
     int no_of_guesses = 1;
     int guessed_number;
     // Print the generated random number
-    printf("Random Number: %d\n", randomNumber);
+    //printf("Random Number: %d\n", randomNumber);
     printf("Guesse the number between 1 and 100 \n");  
     scanf("%d", &guessed_number);
     do
